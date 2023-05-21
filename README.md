@@ -3,12 +3,14 @@
  ### 7 root olarak kabul edilmiştir
  ### 7 ' nin sağında 8 bulunur,
  ### 7' nin solunda 5 bulunur.
-        7
-       / \
-      5   8 
-    /   \   \ 
-   1     6   9 
-  /  \ 
- 0    3        
-    /  \
-   2     4
+
+  
+            7
+           / \
+          5   8 
+        /   \   \ 
+       1     6   9 
+      /  \ 
+     0    3        
+        /  \
+       2     4
